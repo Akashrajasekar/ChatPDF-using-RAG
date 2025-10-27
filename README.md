@@ -1,6 +1,6 @@
-# 🚀 ChatPDF using RAG
+# 🚀 QueryPDF using RAG
 
-A Production-Ready RAG (Retrieval-Augmented Generation) application for intelligent PDF document querying. This application combines local embeddings, vector search, and advanced LLMs to provide accurate, context-aware responses from your PDF documents.
+A RAG (Retrieval-Augmented Generation) application for intelligent PDF document querying. This application combines local embeddings, vector search, and advanced LLMs to provide accurate, context-aware responses from your PDF documents.
 
 ## ✨ Features
 
